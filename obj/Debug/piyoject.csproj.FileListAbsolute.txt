@@ -1,0 +1,10 @@
+C:\Users\華\Desktop\Program\VisualStudio\Piyo\piyoject\piyoject\bin\Debug\piyoject.exe.config
+C:\Users\華\Desktop\Program\VisualStudio\Piyo\piyoject\piyoject\bin\Debug\piyoject.exe
+C:\Users\華\Desktop\Program\VisualStudio\Piyo\piyoject\piyoject\bin\Debug\piyoject.pdb
+C:\Users\華\Desktop\Program\VisualStudio\Piyo\piyoject\piyoject\obj\Debug\piyoject.csprojAssemblyReference.cache
+C:\Users\華\Desktop\Program\VisualStudio\Piyo\piyoject\piyoject\obj\Debug\piyoject.Form1.resources
+C:\Users\華\Desktop\Program\VisualStudio\Piyo\piyoject\piyoject\obj\Debug\piyoject.Properties.Resources.resources
+C:\Users\華\Desktop\Program\VisualStudio\Piyo\piyoject\piyoject\obj\Debug\piyoject.csproj.GenerateResource.cache
+C:\Users\華\Desktop\Program\VisualStudio\Piyo\piyoject\piyoject\obj\Debug\piyoject.csproj.CoreCompileInputs.cache
+C:\Users\華\Desktop\Program\VisualStudio\Piyo\piyoject\piyoject\obj\Debug\piyoject.exe
+C:\Users\華\Desktop\Program\VisualStudio\Piyo\piyoject\piyoject\obj\Debug\piyoject.pdb
